@@ -1,4 +1,26 @@
-summerGame_2/.vs/summerGame_2/v17/ipch/AutoPCH/3c51d59edbc65642/BG.ipch
-summerGame_2/.vs/summerGame_2/v17/ipch/AutoPCH/3c51d59edbc65642/BG.ipch
+# Build output (bin/*.exe is the distributed build and is tracked)
+Debug/
+Release/
+x64/
+*.obj
+*.pdb
+*.ilk
+*.idb
+*.tlog
+*.lastbuildstate
+*.pch
 *.ipch
-summerGame_2/.vs/summerGame_2/v17/ipch/AutoPCH/3c51d59edbc65642/BG.ipch
+
+# Visual Studio
+.vs/
+*.vcxproj.user
+*.suo
+
+# Temporary
+Log.txt
+*.log
+*.tmp
+
+# OS
+.DS_Store
+Thumbs.db
